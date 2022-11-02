@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667346108 source:c:\users\aluno\desktop\01do11\somavetores\somavetores\main.c
+	<stdio.h>
+	<stdlib.h>
+

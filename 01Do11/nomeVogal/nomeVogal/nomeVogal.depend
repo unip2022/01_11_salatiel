@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667350052 source:c:\users\aluno\desktop\01do11\nomevogal\nomevogal\main.c
+	<stdio.h>
+	<stdlib.h>
+
